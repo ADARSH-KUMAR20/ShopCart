@@ -1,0 +1,17 @@
+.Top{
+    display: flex;
+    background-color: dimgray;
+    height: 5vh;
+    text-align: center;
+    padding-left: 11vh;
+}
+h3{
+    margin-top: 5px;
+}
+.Top button{
+    padding: none;
+    background: none;
+    color: black;
+    border: none;
+    font-size:large;
+}

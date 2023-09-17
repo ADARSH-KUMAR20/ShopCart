@@ -1,0 +1,42 @@
+.Main{
+    height: 80vh;
+    background-color: black;
+    background-image: url('C:\Users\ADARSH KUMAR\Desktop\React-app\Studio\studio\src\Components\images\Group 15.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.Main h1{
+color:white;
+font-size: 18vh;
+margin-left: 20%;
+margin-top: 0%;
+padding-bottom: 0%;
+margin-top: 0%;
+}
+
+.Main .twe{
+font-size: 18vh;
+margin-left: 40%;
+padding-top: 0%;
+margin-top: 0%;
+padding-bottom: 0%;
+background-color: transparent;
+margin-bottom: 0%;
+}
+.Main .look{
+    color: white;
+    font-size: 18vh;
+    margin-left: 20%;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.Main button{
+    color: white;
+    font-size: large;
+    margin-top: 2%;
+    margin-left: 10%;
+    border: 1px solid white;
+}

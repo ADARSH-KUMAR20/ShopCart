@@ -1,0 +1,12 @@
+.But button{
+    color: black;
+    font-size: 3vh;
+    
+}
+.But{
+    margin-top: 5vh;
+    display: flex;
+    gap: 5vh;
+    flex-direction: column;
+    justify-content: flex-start;
+}

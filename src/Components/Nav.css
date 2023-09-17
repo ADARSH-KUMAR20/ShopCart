@@ -1,0 +1,39 @@
+.Nav{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    gap:20vh;
+    padding-left: 10vh;
+}
+
+button{
+    padding: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size:large;
+}
+hr{
+    margin-left: 10vh;
+    margin-right: 13vh;
+
+}
+.shop .inner{
+    display: flex;
+    padding-right: 8%;
+}
+ .shop{
+    display: flex;
+    color: white;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    }
+.shop h3{
+    padding-right: 8%;
+    
+}
+
+
